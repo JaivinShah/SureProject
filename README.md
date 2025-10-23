@@ -17,7 +17,15 @@ A Python tool to extract 5 key data points (transaction info, card variant, card
 - `src/main.py` - CLI entrypoint
 - `tests/test_parser.py` - Unit tests
 - `requirements.txt` - Project dependencies
-- `sample_statements/` - Dummy PDF samples
+- `ample_hdfc.pdf
+
+sample_sbi.pdf
+
+sample_icici.pdf
+
+sample_axis.pdf
+
+sample_amex.pdf` - Dummy PDF samples
 
 ## Contribution
 
