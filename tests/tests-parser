@@ -1,0 +1,6 @@
+from src.parser import extract_data_points
+
+def test_extract_data_points():
+    # Use a sample/dummy PDF for testing
+    result = extract_data_points("sample_statements/sample_hdfc.pdf")
+    assert isinstance(result, dict)
